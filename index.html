@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>LAFITA 2026 — Tablero del equipo</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦎</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script src="js/config.js"></script>
+</head>
+<body>
+
+<!-- Contraseña -->
+<div id="gate" hidden>
+  <form id="gate-form" class="gate-box" autocomplete="off">
+    <div class="gate-logo" aria-hidden="true">🦎</div>
+    <h1>LAFITA 2026</h1>
+    <p>Tablero del equipo. Escribe la contraseña para entrar.</p>
+    <input id="gate-input" type="password" placeholder="Contraseña" aria-label="Contraseña">
+    <button type="submit">Entrar</button>
+    <p id="gate-error" class="gate-error" role="alert"></p>
+  </form>
+</div>
+
+<div id="app" hidden>
+  <header class="top">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">🦎</span>
+      <div>
+        <h1 id="fest-name">LAFITA 2026</h1>
+        <p id="fest-sub" class="sub"></p>
+      </div>
+    </div>
+    <div class="top-side">
+      <div id="countdown" class="countdown"></div>
+      <button id="need-owner" class="need-owner" hidden title="Mostrar solo las tareas sin responsable"></button>
+      <div class="overall">
+        <div class="overall-label"><span>Progreso</span><b id="overall-text">—</b></div>
+        <div class="bar"><i id="overall-bar"></i></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="toolbar">
+    <input id="f-search" type="search" placeholder="Buscar tareas, personas, notas…" aria-label="Buscar">
+    <select id="f-person" aria-label="Filtrar por persona"></select>
+    <select id="f-status" aria-label="Filtrar por estado"></select>
+    <label class="check"><input id="f-hide" type="checkbox"> Ocultar hechas</label>
+    <span id="sync" class="sync" role="status"></span>
+  </div>
+
+  <nav id="cat-nav" class="cat-nav" aria-label="Áreas"></nav>
+
+  <main>
+    <section id="upcoming" class="upcoming" hidden></section>
+    <div id="board"></div>
+  </main>
+
+  <footer class="foot">
+    <p id="mode-note"></p>
+    <div class="foot-tools">
+      <button id="btn-export" class="ghost">Descargar tasks.json</button>
+      <button id="btn-import" class="ghost">Importar tasks.json</button>
+      <button id="btn-reset" class="ghost">Volver a los datos del repositorio</button>
+      <input id="import-file" type="file" accept="application/json,.json" hidden>
+    </div>
+  </footer>
+</div>
+
+<!-- Pop-up de detalle -->
+<div id="modal" class="modal" hidden>
+  <div class="modal-backdrop" data-close></div>
+  <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="m-title">
+    <div class="modal-top">
+      <span id="m-cat-label" class="m-cat"></span>
+      <span id="m-saved" class="m-saved"></span>
+      <button id="m-close" class="icon-btn" data-close aria-label="Cerrar">✕</button>
+    </div>
+    <textarea id="m-title" class="m-title" rows="1" placeholder="Título de la tarea"></textarea>
+    <div class="m-grid">
+      <label>Estado<select id="m-status"></select></label>
+      <label>Área<select id="m-category"></select></label>
+      <label>Responsable<input id="m-owner" list="people-list" placeholder="Nombre(s) — ej. Sven, Frauke"></label>
+      <label>Fecha límite<input id="m-due" type="date"></label>
+    </div>
+    <label class="m-block">Descripción
+      <textarea id="m-desc" rows="5" placeholder="Contexto, decisiones, contactos, links…"></textarea>
+    </label>
+    <div class="m-block">
+      <div class="m-label">Checklist <span id="m-check-count"></span></div>
+      <ul id="m-checklist" class="checklist"></ul>
+      <input id="m-check-new" class="check-new" placeholder="+ Agregar un punto (Enter)">
+    </div>
+    <div class="modal-foot">
+      <span id="m-updated" class="m-updated"></span>
+      <button id="m-delete" class="danger">Eliminar tarea</button>
+    </div>
+  </div>
+</div>
+<datalist id="people-list"></datalist>
+
+<script src="js/app.js"></script>
+</body>
+</html>
