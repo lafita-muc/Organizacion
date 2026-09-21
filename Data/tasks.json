@@ -1,0 +1,1510 @@
+{
+  "festival": {
+    "name": "LAFITA 2026",
+    "fullName": "Lateinamerikanische Filmtage München",
+    "subtitle": "40 años · 25–29 de noviembre de 2026 · München",
+    "start": "2026-11-25",
+    "end": "2026-11-29"
+  },
+  "categories": [
+    {
+      "key": "programacion",
+      "name": "Programación",
+      "emoji": "🎬",
+      "color": "#D9532F",
+      "description": "Selección de películas, derechos, copias de proyección y horarios."
+    },
+    {
+      "key": "textos",
+      "name": "Textos y traducción",
+      "emoji": "✍️",
+      "color": "#A0703A",
+      "description": "Textos de cada película, redacción (Nadine) y traducción (Alfonsina)."
+    },
+    {
+      "key": "programa-joven",
+      "name": "Programa joven",
+      "emoji": "🎒",
+      "color": "#3E9B4F",
+      "description": "perspectivas jóvenes: CUERPO CELESTE, función escolar y relación con escuelas."
+    },
+    {
+      "key": "inauguracion",
+      "name": "Inauguración",
+      "emoji": "🥂",
+      "color": "#C23B6B",
+      "description": "Eröffnung el miércoles 25.11 en la LUISE."
+    },
+    {
+      "key": "sedes",
+      "name": "Sedes y técnica",
+      "emoji": "📍",
+      "color": "#1B8579",
+      "description": "LUISE, Werkstattkino y Gasteig HP8: reservas, técnica y Spielortbetreuung."
+    },
+    {
+      "key": "invitados",
+      "name": "Invitados y cooperaciones",
+      "emoji": "🤝",
+      "color": "#6C4FA6",
+      "description": "Directoras/es, moderación y cooperaciones (amnesty, DHG, Rosa-Luxemburg-Stiftung)."
+    },
+    {
+      "key": "des-mirar",
+      "name": "DES-MIRAR (11.10)",
+      "emoji": "👁️",
+      "color": "#8C6A00",
+      "description": "Evento previo con el oekubüro: workshop, largometraje y cortos con charlas."
+    },
+    {
+      "key": "ticketing",
+      "name": "Ticketing y público",
+      "emoji": "🎟️",
+      "color": "#D69E2E",
+      "description": "Reservas, aforo, entradas de cortesía, listas de invitados y nuevo sistema de tickets."
+    },
+    {
+      "key": "social",
+      "name": "Social media",
+      "emoji": "📱",
+      "color": "#2F7FBF",
+      "description": "Instagram (Alfonsina), Facebook (Frauke), gráficos con Romina."
+    },
+    {
+      "key": "prensa-web",
+      "name": "Prensa y web",
+      "emoji": "📰",
+      "color": "#4E5BA6",
+      "description": "Homepage, blog, lista de prensa y Filmfest-Finder."
+    },
+    {
+      "key": "diseno",
+      "name": "Diseño e impresos",
+      "emoji": "🎨",
+      "color": "#B0489E",
+      "description": "Carteles, roll-ups, postales, Programmheft y logo del 40 aniversario."
+    },
+    {
+      "key": "merch",
+      "name": "Merch",
+      "emoji": "🧢",
+      "color": "#6E8B1E",
+      "description": "Lanyards, identificación del equipo y otras ideas."
+    },
+    {
+      "key": "fotografia",
+      "name": "Fotografía",
+      "emoji": "📷",
+      "color": "#55636E",
+      "description": "Fotos del festival, archivo y uso en sponsoring y redes."
+    },
+    {
+      "key": "sponsoring",
+      "name": "Sponsoring",
+      "emoji": "💶",
+      "color": "#9B3D3D",
+      "description": "Deutsch-Hispanische Gesellschaft, oikocredit, air europa y nuevos apoyos."
+    },
+    {
+      "key": "equipo",
+      "name": "Equipo y coordinación",
+      "emoji": "🧭",
+      "color": "#2C6E8C",
+      "description": "Reuniones, reparto del trabajo y aprendizajes de ediciones anteriores."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "programacion-01",
+      "category": "programacion",
+      "title": "Cerrar el programa final",
+      "owner": "Sergej, Sven",
+      "due": "2026-09-21",
+      "status": "pendiente",
+      "description": "El Programmschluss acordado (actas del 19.08 y 15.09) es el 21 de septiembre. Dejar 1–2 espacios libres para películas nuevas.\n\nPlan 2026: unos 10 programas, repitiendo algunas películas, con un bloque de cortos aparte. La lista de trabajo es el spreadsheet «2025 LAFITA-Programm & ImportExport» (pestaña 2026).",
+      "checklist": [
+        {
+          "text": "Resolver los títulos con «?» en el spreadsheet",
+          "done": false
+        },
+        {
+          "text": "Dejar 1–2 slots abiertos",
+          "done": false
+        },
+        {
+          "text": "Compartir el programa final con el equipo",
+          "done": false
+        },
+        {
+          "text": "Pasar horarios definitivos a cada sede",
+          "done": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "id": "programacion-02",
+      "category": "programacion",
+      "title": "Definir la película de apertura (mié 25.11, LUISE)",
+      "owner": "Sergej, Sven",
+      "due": "",
+      "status": "pendiente",
+      "description": "En el acta del 15.09 la apertura sigue abierta; se menciona «DE CIELO» y que se podría invitar a la directora. En el spreadsheet 2026 la función del 25.11 figura como EL DESHIELO? (Manuela Martelli). Confirmar cuál es.",
+      "checklist": [
+        {
+          "text": "Confirmar título",
+          "done": false
+        },
+        {
+          "text": "Consultar disponibilidad de la directora",
+          "done": false
+        },
+        {
+          "text": "Avisar a Inauguración y Textos",
+          "done": false
+        }
+      ],
+      "order": 2
+    },
+    {
+      "id": "programacion-03",
+      "category": "programacion",
+      "title": "Adquirir las películas que faltan",
+      "owner": "Sergej, Sven",
+      "due": "",
+      "status": "pendiente",
+      "description": "En el acta del 15.09 estas películas figuran como «noch einzukaufen». Registrar condiciones y factura en la columna «Rchng» del spreadsheet.",
+      "checklist": [
+        {
+          "text": "SIEMPRE SOY TU ANIMAL MATERNO — Fifi consulta",
+          "done": false
+        },
+        {
+          "text": "WAS AN EMPFINDSAMKEIT BLEIBT",
+          "done": false
+        },
+        {
+          "text": "EL BRUJO",
+          "done": false
+        },
+        {
+          "text": "Película de apertura",
+          "done": false
+        }
+      ],
+      "order": 3
+    },
+    {
+      "id": "programacion-04",
+      "category": "programacion",
+      "title": "Armar el bloque de cortometrajes (jue 26.11, Werkstattkino)",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Decidido en las reuniones: los cortos van como bloque separado, idealmente en el Werkstattkino. En el spreadsheet: jueves 26.11, 18h, «Kurzfilmprogramm / EL SONIDO DE ANTES». Sven escribe el texto del bloque.",
+      "checklist": [
+        {
+          "text": "Seleccionar cortos",
+          "done": false
+        },
+        {
+          "text": "Confirmar derechos de cada corto",
+          "done": false
+        },
+        {
+          "text": "Definir si EL SONIDO DE ANTES va en el mismo programa",
+          "done": false
+        }
+      ],
+      "order": 4
+    },
+    {
+      "id": "programacion-05",
+      "category": "programacion",
+      "title": "miradas emergentes: WAS AN EMPFINDSAMKEIT BLEIBT (dom 29.11, 18h, HP8)",
+      "owner": "Alfonsina, Fifi",
+      "due": "",
+      "status": "pendiente",
+      "description": "Película brasileña de Daniela Magnani Hüller. Acta del 15.09: ¿puede Alfonsina contactarla? Si no, lo toma Fifi. En el spreadsheet aparece como posible cooperación con DOK.fest.",
+      "checklist": [
+        {
+          "text": "Contactar a Daniela Magnani Hüller",
+          "done": false
+        },
+        {
+          "text": "Confirmar si viene a la función",
+          "done": false
+        },
+        {
+          "text": "Aclarar cooperación con DOK.fest",
+          "done": false
+        }
+      ],
+      "order": 5
+    },
+    {
+      "id": "programacion-06",
+      "category": "programacion",
+      "title": "Recibir los archivos de proyección de todas las películas",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "En el spreadsheet 2026 la columna «File» está vacía. Pedir a cada distribuidora el archivo con subtítulos, confirmar el formato con cada sede y hacer prueba técnica antes del festival.",
+      "checklist": [
+        {
+          "text": "Pedir archivos a las distribuidoras",
+          "done": false
+        },
+        {
+          "text": "Verificar subtítulos",
+          "done": false
+        },
+        {
+          "text": "Prueba técnica en cada sede",
+          "done": false
+        }
+      ],
+      "order": 6
+    },
+    {
+      "id": "programacion-07",
+      "category": "programacion",
+      "title": "Reunir trailers y stills de todas las películas",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "En el spreadsheet el estado de stills y trailers figura como «Ausstehend». Los necesitan HP8 (fin de octubre), el Programmheft, la homepage y social media.",
+      "checklist": [],
+      "order": 7
+    },
+    {
+      "id": "programacion-08",
+      "category": "programacion",
+      "title": "Idea 40 aniversario: SILVIA PRIETO de Martín Rejtman en 35mm",
+      "owner": "Sven",
+      "due": "",
+      "status": "pendiente",
+      "description": "Acta del 19.08 (escrito «SILVIA PRETO»): se reencontró una copia en 35mm. Sven pregunta sin compromiso. Posible proyecto de Filmpatenschaft con la Deutsch-Hispanische Gesellschaft, solo si air europa apoya.",
+      "checklist": [],
+      "order": 8
+    },
+    {
+      "id": "textos-01",
+      "category": "textos",
+      "title": "Fecha límite de todos los textos de películas",
+      "owner": "",
+      "due": "2026-09-28",
+      "status": "pendiente",
+      "description": "Aplica a cada autor/a de texto; falta alguien que haga el seguimiento. Acordado el 15.09: todos los textos hasta el 28.09, cuanto antes mejor. Después pasan a redacción (Nadine) y recién entonces a traducción (Alfonsina).",
+      "checklist": [],
+      "order": 1
+    },
+    {
+      "id": "textos-02",
+      "category": "textos",
+      "title": "Texto de CUERPO CELESTE",
+      "owner": "Miri, Lucía",
+      "due": "2026-09-28",
+      "status": "pendiente",
+      "description": "Película de perspectivas jóvenes.",
+      "checklist": [],
+      "order": 2
+    },
+    {
+      "id": "textos-03",
+      "category": "textos",
+      "title": "Texto de UNWELCOMED (SI VAS PARA CHILE)",
+      "owner": "Frauke",
+      "due": "2026-09-28",
+      "status": "pendiente",
+      "description": "Cooperación con amnesty.",
+      "checklist": [],
+      "order": 3
+    },
+    {
+      "id": "textos-04",
+      "category": "textos",
+      "title": "Texto de HARAKIRI, ME HACES FALTA",
+      "owner": "Sofi",
+      "due": "2026-09-28",
+      "status": "pendiente",
+      "description": "En el acta aparece como «JARACIRI».",
+      "checklist": [],
+      "order": 4
+    },
+    {
+      "id": "textos-05",
+      "category": "textos",
+      "title": "Texto de LA MUERTE NO TIENE DUEÑO",
+      "owner": "Sven",
+      "due": "2026-09-28",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 5
+    },
+    {
+      "id": "textos-06",
+      "category": "textos",
+      "title": "Texto del bloque de cortometrajes",
+      "owner": "Sven",
+      "due": "2026-09-28",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 6
+    },
+    {
+      "id": "textos-07",
+      "category": "textos",
+      "title": "Texto de SIEMPRE SOY TU ANIMAL MATERNO",
+      "owner": "Fifi",
+      "due": "2026-09-28",
+      "status": "pendiente",
+      "description": "Película aún por adquirir.",
+      "checklist": [],
+      "order": 7
+    },
+    {
+      "id": "textos-08",
+      "category": "textos",
+      "title": "Texto de WAS AN EMPFINDSAMKEIT BLEIBT",
+      "owner": "Franziska",
+      "due": "2026-09-28",
+      "status": "pendiente",
+      "description": "Película aún por adquirir.",
+      "checklist": [],
+      "order": 8
+    },
+    {
+      "id": "textos-09",
+      "category": "textos",
+      "title": "Texto de EL BRUJO",
+      "owner": "Lucía",
+      "due": "2026-09-28",
+      "status": "pendiente",
+      "description": "Película aún por adquirir.",
+      "checklist": [],
+      "order": 9
+    },
+    {
+      "id": "textos-10",
+      "category": "textos",
+      "title": "Texto de la película de apertura",
+      "owner": "",
+      "due": "2026-09-28",
+      "status": "pendiente",
+      "description": "En el acta figura «EL CIELO (NN)»: todavía no tiene autor/a.",
+      "checklist": [],
+      "order": 10
+    },
+    {
+      "id": "textos-11",
+      "category": "textos",
+      "title": "Textos de CABO SUELTO, NARCISO y MOSCAS",
+      "owner": "Sven",
+      "due": "",
+      "status": "hecho",
+      "description": "Ya escritos según el acta del 15.09.",
+      "checklist": [],
+      "order": 11
+    },
+    {
+      "id": "textos-12",
+      "category": "textos",
+      "title": "Redacción de todos los textos y del Programmheft",
+      "owner": "Nadine",
+      "due": "",
+      "status": "pendiente",
+      "description": "Nadine asume este año la redacción y la coordinación del Programmheft, entre el grupo y Claudia.\n\nOjo: está de vacaciones las dos últimas semanas de octubre, así que los textos tienen que llegarle antes.",
+      "checklist": [],
+      "order": 12
+    },
+    {
+      "id": "textos-13",
+      "category": "textos",
+      "title": "Definir el Redaktionsschluss",
+      "owner": "Sergej, Sven",
+      "due": "2026-09-22",
+      "status": "pendiente",
+      "description": "Se habla en la reunión con Nadine y Claudia del 22.09 a las 19h.",
+      "checklist": [],
+      "order": 13
+    },
+    {
+      "id": "textos-14",
+      "category": "textos",
+      "title": "Traducir los textos",
+      "owner": "Alfonsina",
+      "due": "",
+      "status": "pendiente",
+      "description": "Acta del 15.09: primero redacta Nadine, después traduce Alfonsina.",
+      "checklist": [],
+      "order": 14
+    },
+    {
+      "id": "textos-15",
+      "category": "textos",
+      "title": "Definir largo máximo de los textos (Programmheft y homepage)",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Pendiente abierto desde el recap de 2023.",
+      "checklist": [],
+      "order": 15
+    },
+    {
+      "id": "programa-joven-01",
+      "category": "programa-joven",
+      "title": "CUERPO CELESTE como película de perspectivas jóvenes",
+      "owner": "",
+      "due": "",
+      "status": "hecho",
+      "description": "Decidido el 15.09. Nayra Ilic García, Italia/Chile 2025, 97 min.\n\nFunciones según el spreadsheet: función escolar el viernes 27.11 en el HP8 (09:30, por confirmar) y función abierta el sábado 28.11 a las 15h en el HP8.",
+      "checklist": [],
+      "order": 1
+    },
+    {
+      "id": "programa-joven-02",
+      "category": "programa-joven",
+      "title": "Solicitar el screener de CUERPO CELESTE",
+      "owner": "",
+      "due": "",
+      "status": "hecho",
+      "description": "Ya solicitado según el acta del 15.09.",
+      "checklist": [],
+      "order": 2
+    },
+    {
+      "id": "programa-joven-03",
+      "category": "programa-joven",
+      "title": "Confirmar horario de la función escolar (vie 27.11, HP8)",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "En el spreadsheet figura «09:30 ?». Confirmar con HP8 y con las escuelas.",
+      "checklist": [],
+      "order": 3
+    },
+    {
+      "id": "programa-joven-04",
+      "category": "programa-joven",
+      "title": "Invitar escuelas y registrar las clases",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Aprendizaje del recap 2023: gestionar las clases escolares mucho antes, para poder liberar a tiempo las entradas que no se usen.",
+      "checklist": [
+        {
+          "text": "Lista de escuelas y docentes de contacto",
+          "done": false
+        },
+        {
+          "text": "Enviar invitación",
+          "done": false
+        },
+        {
+          "text": "Registrar clases y número de alumnos",
+          "done": false
+        },
+        {
+          "text": "Liberar entradas no usadas a tiempo",
+          "done": false
+        }
+      ],
+      "order": 4
+    },
+    {
+      "id": "programa-joven-05",
+      "category": "programa-joven",
+      "title": "Pestaña de perspectivas jóvenes en la homepage",
+      "owner": "Franziska",
+      "due": "",
+      "status": "pendiente",
+      "description": "Franziska agrega posiblemente una pestaña nueva en la homepage.",
+      "checklist": [],
+      "order": 5
+    },
+    {
+      "id": "programa-joven-06",
+      "category": "programa-joven",
+      "title": "Idea: bolsas de popcorn para la función escolar",
+      "owner": "Lucía",
+      "due": "",
+      "status": "pendiente",
+      "description": "Idea del recap 2025: si se permite llevar comida, bolsas de popcorn baratas y reciclables, decoradas con los sellos de LAFITA.",
+      "checklist": [],
+      "order": 6
+    },
+    {
+      "id": "inauguracion-01",
+      "category": "inauguracion",
+      "title": "Fecha y lugar: miércoles 25.11 en la LUISE",
+      "owner": "",
+      "due": "",
+      "status": "hecho",
+      "description": "Acordado desde la reunión del 10.06.",
+      "checklist": [],
+      "order": 1
+    },
+    {
+      "id": "inauguracion-02",
+      "category": "inauguracion",
+      "title": "Confirmar película de apertura e invitar a la directora",
+      "owner": "Sergej, Sven",
+      "due": "",
+      "status": "pendiente",
+      "description": "Ver la tarea en Programación. Si es la película que se menciona en el acta, se podría invitar a la directora.",
+      "checklist": [],
+      "order": 2
+    },
+    {
+      "id": "inauguracion-03",
+      "category": "inauguracion",
+      "title": "Diseñar un programa de inauguración corto",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Aprendizajes del recap 2023: el programa fue demasiado largo. Para las próximas ediciones: programa más corto, después ofrecer comida y bebida en la LUISE, luego seguir en la Substanz, y abrir la sala desde las 18:30. No hace falta popcorn.",
+      "checklist": [
+        {
+          "text": "Orden de saludos y presentación",
+          "done": false
+        },
+        {
+          "text": "Moderación",
+          "done": false
+        },
+        {
+          "text": "Plan para después de la función",
+          "done": false
+        }
+      ],
+      "order": 3
+    },
+    {
+      "id": "inauguracion-04",
+      "category": "inauguracion",
+      "title": "Organizar bebidas y algo de comer",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Recap 2023: preparar las bebidas nosotros mismos, posiblemente a cambio de una donación. Preguntar a Rodolfo y hablar con Clara con tiempo.",
+      "checklist": [],
+      "order": 4
+    },
+    {
+      "id": "inauguracion-05",
+      "category": "inauguracion",
+      "title": "Reservar entradas fijas para Filmstadt y Kulturreferat",
+      "owner": "Franzi",
+      "due": "",
+      "status": "pendiente",
+      "description": "Del recap 2025.",
+      "checklist": [
+        {
+          "text": "Moni Haas (Geschäftsführerin Filmstadt München e.V.)",
+          "done": false
+        },
+        {
+          "text": "Margit Lindner (Vorstand Filmstadt)",
+          "done": false
+        },
+        {
+          "text": "Posiblemente Linus Einsiedler y Stephan Golega (Vorstand Filmstadt)",
+          "done": false
+        },
+        {
+          "text": "Anna Zwenger-Mathavan (Kulturreferat München)",
+          "done": false
+        }
+      ],
+      "order": 5
+    },
+    {
+      "id": "inauguracion-06",
+      "category": "inauguracion",
+      "title": "Invitar personalmente a Anna Zwenger-Mathavan y Dominik Petzold",
+      "owner": "Franzi",
+      "due": "",
+      "status": "pendiente",
+      "description": "Recap 2025: ambos comentaron que no habían sido invitados y que les gustaría venir. Anna Zwenger-Mathavan es referente de cine del Kulturreferat; Dominik Petzold es jefe de prensa del DOK.fest y periodista cultural en la AZ. Agregarlos también a la lista de distribución.",
+      "checklist": [],
+      "order": 6
+    },
+    {
+      "id": "inauguracion-07",
+      "category": "inauguracion",
+      "title": "Armar la lista de invitados de la inauguración",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "En 2025 se reservaron unas 35 entradas para la apertura. Reutilizar la estructura del sheet «LAFITA 2025 Spielortbetreuung + Gästeliste».",
+      "checklist": [],
+      "order": 7
+    },
+    {
+      "id": "sedes-01",
+      "category": "sedes",
+      "title": "HP8: proyector reservado del 27 al 29.11",
+      "owner": "Sergej, Sven",
+      "due": "",
+      "status": "hecho",
+      "description": "Confirmado por Sabine Hahn (Gasteig HP8).",
+      "checklist": [],
+      "order": 1
+    },
+    {
+      "id": "sedes-02",
+      "category": "sedes",
+      "title": "HP8: enviar horarios de inicio",
+      "owner": "Sergej",
+      "due": "2026-09-18",
+      "status": "hecho",
+      "description": "Sergej ya envió los horarios (acta del 15.09).",
+      "checklist": [],
+      "order": 2
+    },
+    {
+      "id": "sedes-03",
+      "category": "sedes",
+      "title": "HP8: entregar el timetable elaborado",
+      "owner": "Sergej, Sven",
+      "due": "2026-10-15",
+      "status": "pendiente",
+      "description": "Pedido de Sabine Hahn: timetable completo a mediados de octubre.",
+      "checklist": [],
+      "order": 3
+    },
+    {
+      "id": "sedes-04",
+      "category": "sedes",
+      "title": "HP8: entregar textos e imágenes del programa",
+      "owner": "",
+      "due": "2026-10-31",
+      "status": "pendiente",
+      "description": "Pedido de Sabine Hahn: info del programa (textos y material gráfico) hasta fin de octubre. Lo que esté listo antes, lo toman antes.",
+      "checklist": [],
+      "order": 4
+    },
+    {
+      "id": "sedes-05",
+      "category": "sedes",
+      "title": "Werkstattkino: confirmar 3 funciones el viernes (incluida la de las 22h)",
+      "owner": "Sergej, Sven",
+      "due": "",
+      "status": "pendiente",
+      "description": "Acta del 15.09: el viernes hay tres slots en el Werkstattkino.",
+      "checklist": [],
+      "order": 5
+    },
+    {
+      "id": "sedes-06",
+      "category": "sedes",
+      "title": "Werkstattkino: confirmar si se mantiene el modelo 50:50",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Punto de la checklist del recap 2023: volver a aclararlo cada año.",
+      "checklist": [],
+      "order": 6
+    },
+    {
+      "id": "sedes-07",
+      "category": "sedes",
+      "title": "LUISE: confirmar reserva y técnica para la inauguración",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 7
+    },
+    {
+      "id": "sedes-08",
+      "category": "sedes",
+      "title": "Asignar Spielortbetreuung para cada función",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "En 2025 hubo una persona responsable por función (ver sheet «Spielortbetreuung + Gästeliste» y el «Leitfaden Spielortbetreuung»).\n\nRecap 2023: repartir los días de forma fija, con al menos 2 personas por día a cargo de la organización general (conversación con taquilla, lista de invitados, coordinación con el cine).",
+      "checklist": [],
+      "order": 8
+    },
+    {
+      "id": "sedes-09",
+      "category": "sedes",
+      "title": "Dejar más tiempo entre funciones con charla",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Recap 2025 (Lucía): hubo retrasos. Planificar más margen cuando hay conversación con invitados.",
+      "checklist": [],
+      "order": 9
+    },
+    {
+      "id": "invitados-01",
+      "category": "invitados",
+      "title": "amnesty international: UNWELCOMED (dom 29.11, 15h, HP8)",
+      "owner": "Sven",
+      "due": "",
+      "status": "pendiente",
+      "description": "Cooperación con los grupos de Chile y Venezuela de amnesty. En el spreadsheet también figura un posible «DOK.fest?».",
+      "checklist": [],
+      "order": 1
+    },
+    {
+      "id": "invitados-02",
+      "category": "invitados",
+      "title": "Deutsch-Hispanische Gesellschaft: MOSCAS (sáb 28.11, 18h, HP8)",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Cooperación y Filmpatenschaft de la DHG. Mencionarla junto a la película («En cooperación con…»).",
+      "checklist": [],
+      "order": 2
+    },
+    {
+      "id": "invitados-03",
+      "category": "invitados",
+      "title": "Rosa-Luxemburg-Stiftung: cerrar la cooperación",
+      "owner": "Sven",
+      "due": "",
+      "status": "pendiente",
+      "description": "Sven está en conversación; esperaba a que la contraparte volviera de vacaciones.",
+      "checklist": [],
+      "order": 3
+    },
+    {
+      "id": "invitados-04",
+      "category": "invitados",
+      "title": "Asignar moderación para cada charla",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "El spreadsheet 2026 tiene una columna «Moderation» por función.",
+      "checklist": [],
+      "order": 4
+    },
+    {
+      "id": "invitados-05",
+      "category": "invitados",
+      "title": "Organizar viaje y alojamiento de invitados",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [
+        {
+          "text": "Lista de invitados confirmados",
+          "done": false
+        },
+        {
+          "text": "Viajes",
+          "done": false
+        },
+        {
+          "text": "Alojamiento",
+          "done": false
+        },
+        {
+          "text": "Honorarios o gastos",
+          "done": false
+        }
+      ],
+      "order": 5
+    },
+    {
+      "id": "des-mirar-01",
+      "category": "des-mirar",
+      "title": "Programa de DES-MIRAR (dom 11.10) con el oekubüro",
+      "owner": "Sergej",
+      "due": "2026-10-11",
+      "status": "pendiente",
+      "description": "Cooperación en el marco de la charla y la moderación. Foco en Colombia.\n\n11–13h: workshop (cerrado, cupo limitado, inscripción previa)\n17:30h: largometraje + charla\n19:30h: cuatro cortos + charla\n\nInvitadas: la productora del largometraje y la directora de tres de los cortos. Sergej comparte la información con el equipo.",
+      "checklist": [],
+      "order": 1
+    },
+    {
+      "id": "des-mirar-02",
+      "category": "des-mirar",
+      "title": "Gestionar inscripciones al workshop",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Según el comunicado de prensa: workshop cerrado, con cupo limitado y registro previo. Iniciativas invitadas: FAMMA (Montes de María) y Yuca Kollektiv (Leipzig).",
+      "checklist": [],
+      "order": 2
+    },
+    {
+      "id": "des-mirar-03",
+      "category": "des-mirar",
+      "title": "Anunciar DES-MIRAR en la homepage",
+      "owner": "Franziska",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 3
+    },
+    {
+      "id": "des-mirar-04",
+      "category": "des-mirar",
+      "title": "Anunciar DES-MIRAR en Facebook",
+      "owner": "Frauke",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 4
+    },
+    {
+      "id": "des-mirar-05",
+      "category": "des-mirar",
+      "title": "Anunciar DES-MIRAR en Instagram",
+      "owner": "Alfonsina",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 5
+    },
+    {
+      "id": "des-mirar-06",
+      "category": "des-mirar",
+      "title": "Enviar el comunicado de prensa de DES-MIRAR",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Hay un borrador en el Drive: «PM - Des-mirar 2026».",
+      "checklist": [],
+      "order": 6
+    },
+    {
+      "id": "des-mirar-07",
+      "category": "des-mirar",
+      "title": "Llevar postales y material de LAFITA al evento",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Acta del 15.09: si es posible, dejar postales y otros materiales.",
+      "checklist": [],
+      "order": 7
+    },
+    {
+      "id": "ticketing-01",
+      "category": "ticketing",
+      "title": "Elegir el nuevo sistema de ticketing (reemplazar los Google Forms)",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "En 2025 se usó un Google Form por sede/evento, cada uno con su hoja de respuestas. Opciones: plataforma existente, app propia con Mavi, o Google Sheets automatizado.",
+      "checklist": [
+        {
+          "text": "Comparar opciones",
+          "done": false
+        },
+        {
+          "text": "Decidir",
+          "done": false
+        },
+        {
+          "text": "Probar con una función",
+          "done": false
+        },
+        {
+          "text": "Migrar reservas",
+          "done": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "id": "ticketing-02",
+      "category": "ticketing",
+      "title": "Definir el aforo real por sede y función",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 2
+    },
+    {
+      "id": "ticketing-03",
+      "category": "ticketing",
+      "title": "No pedir más entradas gratis de las necesarias en HP8",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Recap 2025 (Lucía): en algunas funciones se pidieron por precaución y se podrían haber vendido.",
+      "checklist": [],
+      "order": 3
+    },
+    {
+      "id": "ticketing-04",
+      "category": "ticketing",
+      "title": "Definir qué pasa con entradas de KulturRaum no retiradas",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Recap 2025: varias personas de KulturRaum no vinieron. ¿Se pueden vender después del plazo? Difícil si la persona de Spielortbetreuung está sola.",
+      "checklist": [],
+      "order": 4
+    },
+    {
+      "id": "ticketing-05",
+      "category": "ticketing",
+      "title": "Liberar a tiempo el contingente bloqueado (MTicket)",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Recap 2023: el contingente bloqueado se tiene que liberar con tiempo, en días hábiles y a horas razonables; no se puede resolver a último momento.",
+      "checklist": [],
+      "order": 5
+    },
+    {
+      "id": "ticketing-06",
+      "category": "ticketing",
+      "title": "Definir cupos de cortesía, prensa, equipo y VIP",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 6
+    },
+    {
+      "id": "ticketing-07",
+      "category": "ticketing",
+      "title": "Preparar las listas de invitados por función",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Plantilla: sheet «LAFITA 2025 Spielortbetreuung + Gästeliste» (una pestaña por película con nombre, nota y número de entradas).",
+      "checklist": [],
+      "order": 7
+    },
+    {
+      "id": "ticketing-08",
+      "category": "ticketing",
+      "title": "Evaluar descuento para estudiantes vía DAAD Alumni",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Idea del recap 2025 (Lucía): como KulturRaum, DAAD Alumni ofrece entradas reducidas a estudiantes. Buena forma de atraer público joven y a la comunidad expat.",
+      "checklist": [],
+      "order": 8
+    },
+    {
+      "id": "social-01",
+      "category": "social",
+      "title": "Plan de publicaciones por película y fecha",
+      "owner": "Alfonsina, Frauke",
+      "due": "",
+      "status": "pendiente",
+      "description": "Aprendizajes del recap 2023: en Facebook publicar menos, así cada post tiene más alcance; en Instagram funcionan muchos posts, stories y etiquetas. Planificar con tiempo.",
+      "checklist": [],
+      "order": 1
+    },
+    {
+      "id": "social-02",
+      "category": "social",
+      "title": "Plantillas de gráficos para social con Romina",
+      "owner": "Alfonsina, Romina",
+      "due": "",
+      "status": "pendiente",
+      "description": "Alfonsina habló con Romina para que apoye con los gráficos de social.",
+      "checklist": [],
+      "order": 2
+    },
+    {
+      "id": "social-03",
+      "category": "social",
+      "title": "Pedir videomensajes a directoras y directores",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Recap 2023: pedirlos antes.",
+      "checklist": [],
+      "order": 3
+    },
+    {
+      "id": "social-04",
+      "category": "social",
+      "title": "Decidir sobre el intercambio de posts con los Griechische Filmtage",
+      "owner": "Alfonsina",
+      "due": "",
+      "status": "pendiente",
+      "description": "Acta del 15.09: Alfonsina decide; los públicos de ambos festivales no tienen tantos puntos en común.",
+      "checklist": [],
+      "order": 4
+    },
+    {
+      "id": "social-05",
+      "category": "social",
+      "title": "Contenido del 40 aniversario",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Usar la versión del logo con el 40 que preparó Romina.",
+      "checklist": [],
+      "order": 5
+    },
+    {
+      "id": "social-06",
+      "category": "social",
+      "title": "Etiquetar cooperaciones y sponsors en las publicaciones",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 6
+    },
+    {
+      "id": "prensa-web-01",
+      "category": "prensa-web",
+      "title": "Actualizar la lista de prensa y enviar el comunicado del festival",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Lista existente en el Drive: «Verteiler LAFITA Presse_Multiplikator_innen». Agregar a Dominik Petzold y Anna Zwenger-Mathavan.",
+      "checklist": [],
+      "order": 1
+    },
+    {
+      "id": "prensa-web-02",
+      "category": "prensa-web",
+      "title": "Publicar el programa completo en la homepage",
+      "owner": "Franziska",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 2
+    },
+    {
+      "id": "prensa-web-03",
+      "category": "prensa-web",
+      "title": "Logos de sponsors en la nueva pestaña «Partner»",
+      "owner": "Franziska",
+      "due": "",
+      "status": "hecho",
+      "description": "",
+      "checklist": [],
+      "order": 3
+    },
+    {
+      "id": "prensa-web-04",
+      "category": "prensa-web",
+      "title": "Traducir la pestaña «Partner»",
+      "owner": "Franziska",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 4
+    },
+    {
+      "id": "prensa-web-05",
+      "category": "prensa-web",
+      "title": "Crear el Filmfest-Finder",
+      "owner": "Fifi",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 5
+    },
+    {
+      "id": "prensa-web-06",
+      "category": "prensa-web",
+      "title": "Publicar todas las novedades en el blog",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Recap 2023: todas las noticias deberían quedar en el blog de la web.",
+      "checklist": [],
+      "order": 6
+    },
+    {
+      "id": "diseno-01",
+      "category": "diseno",
+      "title": "Reunión con Nadine y Claudia (22.09, 19h)",
+      "owner": "Sergej, Sven, Romina, Sofi, Frauke",
+      "due": "2026-09-22",
+      "status": "pendiente",
+      "description": "Temas: Programmheft, diseño 2026 y Redaktionsschluss.",
+      "checklist": [],
+      "order": 1
+    },
+    {
+      "id": "diseno-02",
+      "category": "diseno",
+      "title": "Carteles: elegir entre las 3 ideas de Claudia",
+      "owner": "Franziska",
+      "due": "",
+      "status": "pendiente",
+      "description": "Claudia manda bocetos revisados desde el 28.08; Franziska vuelve a preguntar.",
+      "checklist": [
+        {
+          "text": "Idea 1: colores según nuestra CI + referencia al 40 aniversario",
+          "done": false
+        },
+        {
+          "text": "Idea 2: ajuste leve del cartel del año pasado + 40 aniversario",
+          "done": false
+        },
+        {
+          "text": "Idea 3: un gran 40 con el 0 relleno con la silueta de Latinoamérica",
+          "done": false
+        }
+      ],
+      "order": 2
+    },
+    {
+      "id": "diseno-03",
+      "category": "diseno",
+      "title": "Roll-ups",
+      "owner": "Franziska",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 3
+    },
+    {
+      "id": "diseno-04",
+      "category": "diseno",
+      "title": "Acordar honorario con Claudia (sin Programmheft)",
+      "owner": "Sergej, Franziska",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 4
+    },
+    {
+      "id": "diseno-05",
+      "category": "diseno",
+      "title": "Postal atemporal (con referencia al 40 aniversario)",
+      "owner": "Franziska",
+      "due": "",
+      "status": "pendiente",
+      "description": "Pedida a Claudia para poder usarla ya este año. Propuesta: postal con código QR al programa en la homepage y logos de sponsors.",
+      "checklist": [],
+      "order": 5
+    },
+    {
+      "id": "diseno-06",
+      "category": "diseno",
+      "title": "Logo del 40 aniversario",
+      "owner": "Romina",
+      "due": "",
+      "status": "en_curso",
+      "description": "Romina ya hizo una versión con el 40; falta definir el color cuando esté el diseño de este año.",
+      "checklist": [],
+      "order": 6
+    },
+    {
+      "id": "diseno-07",
+      "category": "diseno",
+      "title": "Distribuir carteles y postales",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Pendiente abierto del recap 2023.",
+      "checklist": [],
+      "order": 7
+    },
+    {
+      "id": "merch-01",
+      "category": "merch",
+      "title": "Lanyards negros con logo blanco",
+      "owner": "Frauke, Romina",
+      "due": "",
+      "status": "en_curso",
+      "description": "Decidido el 19.08. 20 unidades por aprox. 106 € (onlineprinters.de, modelo «Lanyard Bobbi»). Romina hace el diseño con el logo y los 40 años; Frauke hace el pedido.",
+      "checklist": [
+        {
+          "text": "Romina envía el diseño",
+          "done": false
+        },
+        {
+          "text": "Aprobar el diseño",
+          "done": false
+        },
+        {
+          "text": "Frauke hace el pedido",
+          "done": false
+        },
+        {
+          "text": "Recibir y repartir",
+          "done": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "id": "merch-02",
+      "category": "merch",
+      "title": "Identificación del equipo en sedes grandes (badge o sticker)",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Recap 2025 (Lucía): así el público y el personal de la sede nos reconocen si hay preguntas o problemas.",
+      "checklist": [],
+      "order": 2
+    },
+    {
+      "id": "merch-03",
+      "category": "merch",
+      "title": "Camisetas o hoodies para el equipo (opcional)",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Opción discutida el 19.08: camisetas con impresión de un color al frente, aprox. 93 € por 10; hoodies desde aprox. 37 € c/u. Se eligieron los lanyards.\n\nRecap 2023 sobre las camisetas de Chichas: solo vale la pena si hay capacidad y se promocionan antes en web y redes.",
+      "checklist": [],
+      "order": 3
+    },
+    {
+      "id": "fotografia-01",
+      "category": "fotografia",
+      "title": "Confirmar fotógrafa/o para el festival",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "En la lista de invitados de la apertura 2025 figura Alan Almogobar como fotografía.",
+      "checklist": [
+        {
+          "text": "Confirmar persona",
+          "done": false
+        },
+        {
+          "text": "Pasarle el programa y las funciones clave",
+          "done": false
+        },
+        {
+          "text": "Acordar entrega de fotos",
+          "done": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "id": "fotografia-02",
+      "category": "fotografia",
+      "title": "Fotos para la carpeta de sponsoring",
+      "owner": "Sergej",
+      "due": "",
+      "status": "pendiente",
+      "description": "Sergej pide fotos a Mariano (acta del 19.08).",
+      "checklist": [],
+      "order": 2
+    },
+    {
+      "id": "fotografia-03",
+      "category": "fotografia",
+      "title": "Lista de fotos imprescindibles",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [
+        {
+          "text": "Inauguración",
+          "done": false
+        },
+        {
+          "text": "Público en sala",
+          "done": false
+        },
+        {
+          "text": "Charlas con invitados",
+          "done": false
+        },
+        {
+          "text": "Equipo",
+          "done": false
+        },
+        {
+          "text": "Logos de sponsors en el lugar",
+          "done": false
+        }
+      ],
+      "order": 3
+    },
+    {
+      "id": "fotografia-04",
+      "category": "fotografia",
+      "title": "Ordenar las fotos en el Drive por año",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Ya existe, por ejemplo, la carpeta «Fotos vom Festival 2023 c) Mariano».",
+      "checklist": [],
+      "order": 4
+    },
+    {
+      "id": "fotografia-05",
+      "category": "fotografia",
+      "title": "Aclarar créditos y permisos de uso de las fotos",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 5
+    },
+    {
+      "id": "sponsoring-01",
+      "category": "sponsoring",
+      "title": "Sponsors confirmados: DHG, oikocredit y air europa",
+      "owner": "",
+      "due": "",
+      "status": "hecho",
+      "description": "Deutsch-Hispanische Gesellschaft (Filmpatenschaft), oikocredit y air europa.",
+      "checklist": [],
+      "order": 1
+    },
+    {
+      "id": "sponsoring-02",
+      "category": "sponsoring",
+      "title": "Carpeta de sponsoring con precios para air europa",
+      "owner": "Sergej, Franziska, Frauke",
+      "due": "",
+      "status": "pendiente",
+      "description": "air europa pidió una carpeta con precios. Frauke busca fecha para la reunión.",
+      "checklist": [
+        {
+          "text": "Frauke fija fecha",
+          "done": false
+        },
+        {
+          "text": "Definir contraprestaciones y precios",
+          "done": false
+        },
+        {
+          "text": "Sumar fotos (Mariano)",
+          "done": false
+        },
+        {
+          "text": "Enviar a air europa",
+          "done": false
+        }
+      ],
+      "order": 2
+    },
+    {
+      "id": "sponsoring-03",
+      "category": "sponsoring",
+      "title": "Cumplir la página prometida en impresos",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Opciones de las actas: logos en la postal con QR, pestaña de sponsors en la homepage con logo, información y una frase sobre la relación con LAFITA, y mención junto a la película si hay Filmpatenschaft.",
+      "checklist": [],
+      "order": 3
+    },
+    {
+      "id": "sponsoring-04",
+      "category": "sponsoring",
+      "title": "Buscar apoyos y financiamiento adicionales",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Recap 2023: es una de las áreas donde hace falta más apoyo en el equipo.",
+      "checklist": [],
+      "order": 4
+    },
+    {
+      "id": "equipo-01",
+      "category": "equipo",
+      "title": "Crear el tablero único de tareas",
+      "owner": "",
+      "due": "",
+      "status": "hecho",
+      "description": "",
+      "checklist": [],
+      "order": 1
+    },
+    {
+      "id": "equipo-02",
+      "category": "equipo",
+      "title": "Revisar a fondo el recap 2024 antes del festival",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "Se repite como pendiente urgente en todas las actas desde junio.",
+      "checklist": [],
+      "order": 2
+    },
+    {
+      "id": "equipo-03",
+      "category": "equipo",
+      "title": "Próxima reunión: miércoles 30.09 por la noche",
+      "owner": "",
+      "due": "2026-09-30",
+      "status": "pendiente",
+      "description": "Punto pendiente: repartir más textos de películas.",
+      "checklist": [],
+      "order": 3
+    },
+    {
+      "id": "equipo-04",
+      "category": "equipo",
+      "title": "Primer team-event (nuevo ritmo: cada 8 semanas)",
+      "owner": "Sofi",
+      "due": "",
+      "status": "pendiente",
+      "description": "Sofi empieza y manda ideas y fechas en el Discord.",
+      "checklist": [],
+      "order": 4
+    },
+    {
+      "id": "equipo-05",
+      "category": "equipo",
+      "title": "Alternativas tranquilas para reuniones presenciales sin consumo obligatorio",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 5
+    },
+    {
+      "id": "equipo-06",
+      "category": "equipo",
+      "title": "Actividades durante el año (postal anual, e.V.)",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 6
+    },
+    {
+      "id": "equipo-07",
+      "category": "equipo",
+      "title": "Coordinar reservas de restaurantes",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 7
+    },
+    {
+      "id": "equipo-08",
+      "category": "equipo",
+      "title": "Clonar esta estructura como plantilla para 2027",
+      "owner": "",
+      "due": "",
+      "status": "pendiente",
+      "description": "",
+      "checklist": [],
+      "order": 8
+    }
+  ]
+}
